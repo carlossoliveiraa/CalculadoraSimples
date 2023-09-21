@@ -1,0 +1,14 @@
+C:\GIT\CalculadoraSimples\CalculadoraSimples\bin\Debug\net7.0\CalculadoraSimples.exe
+C:\GIT\CalculadoraSimples\CalculadoraSimples\bin\Debug\net7.0\CalculadoraSimples.deps.json
+C:\GIT\CalculadoraSimples\CalculadoraSimples\bin\Debug\net7.0\CalculadoraSimples.runtimeconfig.json
+C:\GIT\CalculadoraSimples\CalculadoraSimples\bin\Debug\net7.0\CalculadoraSimples.dll
+C:\GIT\CalculadoraSimples\CalculadoraSimples\bin\Debug\net7.0\CalculadoraSimples.pdb
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.AssemblyInfo.cs
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.dll
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\refint\CalculadoraSimples.dll
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.pdb
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\CalculadoraSimples.genruntimeconfig.cache
+C:\GIT\CalculadoraSimples\CalculadoraSimples\obj\Debug\net7.0\ref\CalculadoraSimples.dll
